@@ -15,7 +15,7 @@ A simple and fun **Tic Tac Toe game** built with **Python and Tkinter**. Feature
   - Hard: Smart move selection with strategy
 
 - 🎨 **Theme Selector**:  
-  - Light & Dark themes with clean visuals
+  - Light & Dark themes with clean visual themes
 
 - 📊 **Scoreboard**:  
   - Tracks wins, losses, and draws for both players
@@ -28,7 +28,7 @@ A simple and fun **Tic Tac Toe game** built with **Python and Tkinter**. Feature
 - 👀 **Current Turn Display**:  
   - Shows whose turn it is (X or O)
 
----
+----
 
 ## 🖥️ GUI Preview
 
